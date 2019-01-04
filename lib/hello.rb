@@ -10,6 +10,7 @@ end
 else
   puts "Hey! No block was given!"
 end
+end
 
 # call your method here!
 # hello_t(["Tim", "Tom", "Jim"]) do |name|
